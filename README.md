@@ -16,7 +16,7 @@ I'm focused on data analysis and visualization, with a strong interest in turnin
 ### Netflix Data Analysis Dashboard
 Power BI dashboard analyzing Netflix titles to explore content trends, genres, ratings, release years, and other insights.
 
-🔗 [View Project](https://github.com/laya-hub/Netflix-powerbi-dashboard)
+
 
 
 ## 📜 Certifications
